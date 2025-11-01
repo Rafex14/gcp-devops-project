@@ -1,1 +1,1 @@
-### This is our new test in GCP and testing on DevOps
+### This is our new test in GCP
